@@ -1,6 +1,14 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_GRUPODRSM_335": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+	},
+	"Queries": {
+	}
 }
