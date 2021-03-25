@@ -1,15 +1,15 @@
 {
 	"Entities": {
-		"EN_JEANRAVEE_135": {
-			"name": "JeanRave"
+		"EN_GRUPODRSM_335": {
+			"name": "GrupoDRSRM"
 		}
 	},
 	"MAINW": {
 		"CompositeForms": {
 		},
 		"Forms": {
-			"T_RAMASNRUDTJIO_525": {
-				"name": "PersonaForm"
+			"T_RAMASHFYXNBWA_111": {
+				"name": "Test1RSMR"
 			}
 		},
 		"Queries": {
