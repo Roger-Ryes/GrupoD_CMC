@@ -3,5 +3,18 @@
 		"EN_GRUPODRSM_335": {
 			"name": "GrupoDRSRM"
 		}
+	},
+	"MAINW": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASHFYXNBWA_111": {
+				"name": "Test1RSMR"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }

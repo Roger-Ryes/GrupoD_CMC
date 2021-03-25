@@ -8,6 +8,28 @@
 		}
 	},
 	"Forms": {
+		"T_RAMASHFYXNBWA_111": {
+			"blis": [
+			],
+			"entities": {
+				"EN_GRUPODRSM_335": [
+					"AT71_NOMBREJS335"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_NOMBREIZM_67438"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}
