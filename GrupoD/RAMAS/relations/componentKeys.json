@@ -3,5 +3,18 @@
 		"EN_JEANRAVEE_135": {
 			"name": "JeanRave"
 		}
+	},
+	"MAINW": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASNRUDTJIO_525": {
+				"name": "PersonaForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
