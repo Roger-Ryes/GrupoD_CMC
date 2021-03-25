@@ -2,19 +2,16 @@
 	"CompositeForms": {
 	},
 	"Entities": {
-		"EN_GRUPODRSM_335": {
+		"EN_JEANRAVEE_135": {
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
-		"T_RAMASHFYXNBWA_111": {
+		"T_RAMASNRUDTJIO_525": {
 			"blis": [
 			],
 			"entities": {
-				"EN_GRUPODRSM_335": [
-					"AT71_NOMBREJS335"
-				]
 			},
 			"externalEntities": {
 			},
@@ -23,7 +20,6 @@
 			"header": [
 			],
 			"labels": [
-				"LBL_RAMAS_NOMBREIZM_67438"
 			],
 			"queries": {
 			},
