@@ -1,10 +1,9 @@
 {
-    "RAMAS": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"RAMAS": {
+		"LBL": {
+			"LBL_RAMAS_NOMBREVUF_58619": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }

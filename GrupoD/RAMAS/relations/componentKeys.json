@@ -2,12 +2,18 @@
 	"Entities": {
 		"EN_JEANRAVEE_135": {
 			"name": "JeanRave"
+		},
+		"EN_ROGERREES_899": {
+			"name": "RogerReyes"
 		}
 	},
 	"MAINW": {
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_RAMASIXRZYIIW_929": {
+				"name": "PersonaFormRSR"
+			},
 			"T_RAMASNRUDTJIO_525": {
 				"name": "PersonaForm"
 			}

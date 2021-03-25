@@ -5,9 +5,35 @@
 		"EN_JEANRAVEE_135": {
 			"labels": [
 			]
+		},
+		"EN_ROGERREES_899": {
+			"labels": [
+			]
 		}
 	},
 	"Forms": {
+		"T_RAMASIXRZYIIW_929": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ROGERREES_899": [
+					"AT57_NOMBREZP899"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_NOMBREVUF_58619"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_RAMASNRUDTJIO_525": {
 			"blis": [
 			],
